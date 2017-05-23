@@ -1,3 +1,4 @@
+#无限滚动，可以实现向下的无限加载。
 # vue-infinite-scroll
 
 vue-infinite-scroll is an infinite scroll directive for vue.js.
